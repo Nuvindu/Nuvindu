@@ -3,8 +3,6 @@
 
 
 <br />
-<br />
-<br />
 
 ## About Me: 
 <p><b> An Undergraduate of University of Moratuwa </b></p>
