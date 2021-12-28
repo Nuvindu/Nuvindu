@@ -4,7 +4,7 @@
 
 <br />
 
-## About Me: 
+## About Me
 <p><b> An Undergraduate of University of Moratuwa </b></p>
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning **GraphQL** -->
@@ -17,7 +17,7 @@
 
 <br />
 
-## Connect with me:
+## Connect with Me
 <p align="right">
   <a href="https://lk.linkedin.com/in/nuvindu-dias">
   <img align="left" alt="Nuvindu's Linkdein Account" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-## 🚀 Technologies and Tools:
+## Technologies and Tools
 
 <p align="left"> 
     <a href="https://www.php.net/" target="_blank"> <img alt="PHP" style="width: 8%; height: auto;" src="https://www.php.net//images/logos/new-php-logo.svg"/> </a> 
@@ -55,7 +55,7 @@
 <br>
 
 
-## 📊 Github Stats
+## Github Stats
 
 <p align="left"> 
     <a href="https://github.com/Nuvindu/github-readme-stats"><img alt="Nuvindu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nuvindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
