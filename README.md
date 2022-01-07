@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi , I'm Nuvindu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
+<h1 align="center">Nuvindu Nirmana</h1>
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 <br />
 
 ## About Me
-<p><b> An Undergraduate of University of Moratuwa </b></p>
+<p><b> </b></p>
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning **GraphQL** -->
 <!-- - 👯 I’m looking to collaborate on ...
@@ -17,7 +17,7 @@
 
 <br />
 
-## Connect with Me
+## Find me on:
 <p align="right">
   <a href="https://lk.linkedin.com/in/nuvindu-dias">
   <img align="left" alt="Nuvindu's Linkdein Account" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
