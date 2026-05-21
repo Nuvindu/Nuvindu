@@ -11,7 +11,6 @@
     <a href="https://developer.amazon.com/en-US/alexa/alexa-skills-kit" target="_blank"><img alt="Amazon Alexa" style="width: 8%; height: auto;" src="https://d7qzviu3xw2xc.cloudfront.net/alexa/assets/images/Alexa_Logo_RGB_BLUE.png" /></a>
     <a href="https://www.php.net/" target="_blank"> <img alt="PHP" style="width: 8%; height: auto;" src="https://www.php.net//images/logos/new-php-logo.svg"/></a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <a href="https://www.javascript.com/" target="_blank"> <img alt="JavaScript" style="width: 5%; height: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/></a>
 </p>
 <br>
 
